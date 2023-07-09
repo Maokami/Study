@@ -197,7 +197,7 @@ ReluDiff를 인용하고 있는 논문들에서 ReluDiff를 어떻게 언급하�
   speed up the complete dierential verication with multiple perturbed networks, performing it
   incrementally.**
 
-### QEBVerif: Quantization Error Bound Verification of Neural Networks
+### QEBVerif: Quantization Error Bound Verification of Neural Networks (CAV '23)
 
 - **Naively, one could use an existing verification tool in the literature to independently compute the output intervals for both the QNN and the DNN, and then
   compute their output difference directly by interval subtraction. However, such
